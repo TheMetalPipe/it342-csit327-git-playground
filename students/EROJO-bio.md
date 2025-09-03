@@ -1,4 +1,4 @@
 - Year/Section:3rd Year / G8
 - Favorite Language: Java
-- One Git Tip Learned: Use `git remote -v` to check record of remote repositories
+- One Git Tip Learned: Use `git remote -v` to check the record of remote repositories
 - GitHub: @TheMetalPipe
